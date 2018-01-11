@@ -1,4 +1,3 @@
-# Project-R-scripts
 # To share R-scripts
 * Downloading GBIF dataset using R 
 * From https://www.gbif.org use advanced search with the following parameters:
